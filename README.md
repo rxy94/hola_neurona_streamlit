@@ -1,6 +1,7 @@
 # Hola Neurona Streamlit
 
 Una aplicación web interactiva construida con Streamlit para explorar conceptos relacionados con redes neuronales. 
+[Link app desplegada](https://holaneurona-rxy.streamlit.app/)
 
 ## Descripción
 
